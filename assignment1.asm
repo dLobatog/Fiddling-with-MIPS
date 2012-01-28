@@ -10,7 +10,7 @@ it_is:		.asciiz "It is equal to the sum of elements "
 with_indexes:   .asciiz " with indexes "
 and_other:	.asciiz " and "
 no_solution:	.asciiz "No two elements have been found to sum to the average"
-set_of_numbers: .word 
+set_of_numbers: .word 0
 .align 2
 
 .text
