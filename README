@@ -1,0 +1,10 @@
+Fiddling with MIPS
+=============
+
+Welcome to Fiddling with MIPS! This is the particular toy store for Daniel Lobato Garcia. It is mainly a current repository that shows simple programs that could be done using assembly MIPS.
+
+
+Assignment 1
+-------
+
+This is a very simple program that prompts the user for a certain sequence of numbers and returns the average, maximum and minimum, and the two first numbers that sum to the average of the sequence.
